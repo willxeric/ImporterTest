@@ -1,0 +1,8 @@
+Teal, Shalek, teal@eduphoria.net, Female, 13, 10/01/2012
+"Dan", "Lien", "dan@eduphoria.net", "male", 20, "05/30/2005"
+BadRow, MissingFields
+"Pat", Doe, "pat@eduphoria.net", Other, 50, "09/24/2007"
+'John', "Smith", 'john@eduphoria.net', 'Unknown', 15, '09/11/2009'
+"", "Missing First Name", "missingfirstname@eduphoria.net", "Male", 1, "01/01/2001"
+"Invalid", "Date", "invaliddate@eduphoria.net", "Female", 1, "13/01/2001"
+"Invalid", "Gender", "badgender@eduphoria.net", "Dog", 15, "02/02/2002"
