@@ -14,7 +14,6 @@ namespace ImporterTest.Tests
         {
             var importer = new UserImporter();
             var results = importer.Import(@"..\..\Data\Verification.csv");
-
             Assert.NotNull(results);
 
             var users = results.Users;
